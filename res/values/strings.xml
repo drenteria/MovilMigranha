@@ -6,5 +6,6 @@
     <string name="action_settings">Opciones</string>
     <string name="username_default">Usuario</string>
     <string name="password_default">Password</string>
+    <string name="login_button">Ingresar</string>
 
 </resources>
