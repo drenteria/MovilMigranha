@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MovilMigranha</string>
+    <string name="hello_world">Ingreso a la App Movil</string>
+    <string name="action_settings">Opciones</string>
+    <string name="username_default">Usuario</string>
+    <string name="password_default">Password</string>
+
+</resources>
