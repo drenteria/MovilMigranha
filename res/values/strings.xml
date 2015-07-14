@@ -7,5 +7,7 @@
     <string name="username_default">Usuario</string>
     <string name="password_default">Password</string>
     <string name="login_button">Ingresar</string>
+    <string name="login_fail_required">Usuario y Password son requeridos!</string>
+    <string name="login_fail_not_found">Credenciales incorrectas. Intente de nuevo!</string>
 
 </resources>
